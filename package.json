@@ -4,7 +4,7 @@
   "description": "First Cicd",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"no test\"",
+    "test": "echo \"no test 2\"",
     "start" : "node index.js"
   },
   "author": "",
